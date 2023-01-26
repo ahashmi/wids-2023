@@ -38,8 +38,10 @@
 * [Kaggle Tutorial: Linear Regression With Time Series, by Ryan Holbrook](https://www.kaggle.com/code/ryanholbrook/linear-regression-with-time-series)
 * [ARIMA Model – Complete Guide to Time Series Forecasting in Python, by Selva Prabhakaran](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
 * [scikit-learn: Time-related feature engineering](https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html)
+* [kaggle: Random Forest hyperparameters tuning](https://www.kaggle.com/code/emanueleamcappella/random-forest-hyperparameters-tuning/notebook)
 
 ## Books
 
 * [Machine Learning for Time-Series with Python, bu Ben Auffarth](https://github.com/PacktPublishing/Machine-Learning-for-Time-Series-with-Python)
 * [(O'Reilly) Practical Time Series Analysis, by Aileen Nielsen](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/)
+* [Forecasting: theory and practice](https://www.sciencedirect.com/science/article/pii/S0169207021001758)

@@ -1,0 +1,26 @@
+{
+    "algorithm": "AdaBoostRegressor",
+    "scaler": "MinMaxScaler",
+    "missing value strategy": "replace w/ mean",
+    "correlation threshold": 0.9,
+    "lags": [
+        1
+    ],
+    "n_features": 44,
+    "sample locations": 260,
+    "data rows": 190060,
+    "model params": {
+        "base_estimator": "deprecated",
+        "estimator": null,
+        "learning_rate": 0.1,
+        "loss": "linear",
+        "n_estimators": 780,
+        "random_state": null
+    },
+    "duration": "13min",
+    "metrics": {
+        "MSE": 5.893,
+        "RMSE": 2.4275,
+        "R2": 0.8538
+    }
+}
