@@ -10,15 +10,7 @@
 
 ## Papers
 
-* A Hybrid Approach to Atmospheric Modeling That Combines Machine Learning With a Physics-Based Numerical Model
-* Developing machine learning algorithms for meteorological temperature and humidity forecasting at Terengganu state in Malaysia
-* Temperature forecasting by deep learning methods
-* One month in advance prediction of air temperature from Reanalysis data with eXplainable Artificial Intelligence techniques
-* Data-driven models for atmospheric air temperature forecasting at a continental climate region
-* Modelling monthly mean air temperature using artificial neural network, adaptive neuro-fuzzy inference system and support vector regression methods: A case of study for Turkey
-* A novel ensemble learning for post-processing of NWP Model's next-day maximum air temperature forecast in summer using deep learning and statistical approaches
-* Machine Learning in Weather Prediction and Climate Analyses—Applications and Perspectives
-* Probabilistic Predictions from Deterministic Atmospheric River Forecasts with Deep Learning
+see [paper citations](papers.bib)
 
 ## Tutorials/Articles
 
@@ -39,6 +31,8 @@
 * [ARIMA Model – Complete Guide to Time Series Forecasting in Python, by Selva Prabhakaran](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
 * [scikit-learn: Time-related feature engineering](https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html)
 * [kaggle: Random Forest hyperparameters tuning](https://www.kaggle.com/code/emanueleamcappella/random-forest-hyperparameters-tuning/notebook)
+* [keras: Timeseries forecasting for weather prediction](https://keras.io/examples/timeseries/timeseries_weather_forecasting/)
+* [paperswithcode: Spatio-Temporal Forecasting](https://paperswithcode.com/task/spatio-temporal-forecasting)
 
 ## Books
 

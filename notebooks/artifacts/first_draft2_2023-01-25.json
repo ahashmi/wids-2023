@@ -2,6 +2,11 @@
     "algorithm": "AdaBoostRegressor",
     "scaler": "MinMaxScaler",
     "missing value strategy": "replace w/ mean",
+    "target": {
+        "name": "contest-tmp2m-14d__tmp2m",
+        "min": -20.35896342,
+        "delta": 57.597745489999994
+    },
     "correlation threshold": 0.9,
     "lags": [
         1
